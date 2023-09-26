@@ -1,0 +1,8 @@
+- file main.py build model and save to FB.h5 to reducing time for predicting purpose
+- test.py load model and make a prediction
+- Code_simuation describe the way each line of source code work
+- requirement.txt contain all the nessecery library
+- simulation_library.py simulate the inside of sequential, LSTM, Dense  
+- Data gets from : https://www.investing.com/
+- main.py references from : https://github.com/trinhkiet0105/Stock-Prediction/blob/main/crypto.py?fbclid=IwAR3gVfNXLsVzgAVN6AO4Upuallmhwycpir5gSvQ2hh1zbkKq-7T1lHX-ENw
+- theoretical basis reference from : https://d2l.aivivn.com/chapter_recurrent-modern/lstm_vn.html
